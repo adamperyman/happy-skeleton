@@ -1,10 +1,10 @@
 {
-  "name": "<PROJECT NAME>",
+  "name": "<PROJECT_NAME>",
   "version": "0.1.0",
-  "description": "<PROJECT DESCRIPTION>",
+  "description": "<PROJECT_DESCRIPTION>",
   "main": "index.js",
   "repository": "https://github.com/<USER>/<REPO>.git",
-  "author": "<AUTHOR>",
+  "author": "<REAL_NAME> <<EMAIL_ADDRESS>>",
   "license": "MIT",
   "private": false,
   "scripts": {
