@@ -1,3 +1,5 @@
+--smart-case
+
 --ignore-dir=build
 --ignore-dir=node_modules
 
